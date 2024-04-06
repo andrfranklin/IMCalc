@@ -10,6 +10,8 @@ App developed with Flutter to explore the Dart language and Material Components 
 
 3. Navigate to the cloned project folder with `cd IMCalc`.
 
-4. To ensure all necessary dependencies are installed, execute `flutter pub get`.
+4. Create the project, execute `flutter create .`.
 
-5. To start the app on a connected device or emulator, use the command `flutter run`.
+5. To ensure all necessary dependencies are installed, execute `flutter pub get`
+
+6. To start the app on a connected device or emulator, use the command `flutter run`.
